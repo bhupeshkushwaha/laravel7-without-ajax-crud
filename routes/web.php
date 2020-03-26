@@ -21,3 +21,5 @@ Route::get('/', function () {
 Route::resource('products','ProductController');
 
 Route::resource('crud','CrudsController');
+
+Route::resource('ajax-posts', 'ajaxcrud\AjaxPostController');
