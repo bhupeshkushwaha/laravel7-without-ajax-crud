@@ -1,2 +1,2 @@
-# laravel7-without-ajax-crud
-Laravel 7 CRUD without ajax
+# laravel7-with-or-without-ajax-crud
+Laravel 7 CRUD with or without ajax
